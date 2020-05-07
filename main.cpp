@@ -1,7 +1,7 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
-#include <string>
 #include <stdio>
+#include <vector>
 
 int main(int argc, char** argv)
 {
