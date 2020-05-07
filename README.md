@@ -8,6 +8,7 @@ The original neural style transfer algorithm was introduced by Gatys et al. in t
 ## Dependencies
 In order to make it as simple as possible, the major pipeline between Adrian's and my implemenation is identical. So what you need is
 1. [OpenCV with DNN module](https://github.com/opencv/opencv).
+2. The models, from Adrian's link.
 
 An there is some minor difference in the implementation after the inference step. 
 
