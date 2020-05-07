@@ -23,6 +23,6 @@ output = output.reshape((3, output.shape[2], output.shape[3]))
 
 The rest of the pipeline is the same.
 
-##Example
+## Example
 
 ![Example](15_01_19.jpg)
